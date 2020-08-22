@@ -1,0 +1,26 @@
+body,
+html { 
+	width:100%;
+	height:100%;
+  background: url(football.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+h1{
+	font-size: 3rem;
+	color: rgb(255,0,0);
+}
+hr{
+	border-color: #17a2b8;
+	border-width: 5px;
+	max-width: 400px;
+}
+.btn-xl{
+	border-radius: 1000px;
+
+}
+.buffer1{
+	height:5rem;
+}
